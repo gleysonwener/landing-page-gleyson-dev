@@ -33,12 +33,12 @@ footer {
     color: white;
 }
 .navbar {
-    background: rgb(165, 187, 105);
+    background: black;
 }
 
 #div1-nav {
-    color: black;
-    background: rgb(165, 187, 105);
+    color: white;
+    background: black;
     height: 50px;
 }
 
@@ -59,10 +59,11 @@ button{
 
 .link {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 a {
     text-decoration: none;
     font-weight: bold; 
 }
+

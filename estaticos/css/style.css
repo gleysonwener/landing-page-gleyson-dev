@@ -15,7 +15,7 @@
 
 .section2 {
     background-color: white;
-    height: 940px;
+    height: 620px;
     text-align: center;
     color: black;
     padding-top: 0%;
@@ -97,9 +97,17 @@ a {
 }
 
 .section3, .link10, .link20, .link30, .link40{
-    height: 740px;
+    height: 540px;
     text-decoration: none;
     color: black;
 }
 
-/* caroucel */
+/* caroucel 
+
+.carousel-inner, img{
+   
+    height: 200px;
+    width: 5px; 
+}
+
+*/

@@ -1,0 +1,68 @@
+.section1 {
+    background-color: bwhite;
+    height: 150px;
+}
+
+.h1-section1 {
+    text-align: center;
+    color: black;
+}
+
+.h2-section1 {
+    text-align: center;
+    color: black;
+}
+
+.section2 {
+    background-color: white;
+    height: 940px;
+    text-align: center;
+    color: black;
+    padding-top: 0%;
+}
+
+.section3 {
+    background-color: white;
+    height: 540px;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    height: 150px;
+    color: white;
+}
+.navbar {
+    background: rgb(165, 187, 105);
+}
+
+#div1-nav {
+    color: black;
+    background: rgb(165, 187, 105);
+    height: 50px;
+}
+
+.footer-1 {
+    text-align: center;
+    column-count: 3;
+}
+
+input{
+    width: 550px;  
+    height: 40px;
+    border-radius: 8px
+}
+
+button{
+    background-color: red;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold; 
+}

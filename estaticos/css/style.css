@@ -29,7 +29,7 @@
 
 footer {
     background-color: black;
-    height: 150px;
+    height: 250px;
     color: white;
 }
 .navbar {
@@ -40,11 +40,19 @@ footer {
     color: white;
     background: black;
     height: 50px;
+    
+}
+
+.img-size {
+    width: 30px;
+    height: 30px;
+
 }
 
 .footer-1 {
     text-align: center;
     column-count: 3;
+    
 }
 
 input{
@@ -67,3 +75,31 @@ a {
     font-weight: bold; 
 }
 
+.link-nav{
+    text-decoration: none;
+}
+
+.div-sobre{
+    padding: 25px;
+}
+
+.div-sobre{
+    column-count: 3;
+    text-align: center;
+   padding-top: 250px;
+}
+
+
+.div-section{
+    padding: 100px;
+    height: 940px;
+   
+}
+
+.section3, .link10, .link20, .link30, .link40{
+    height: 740px;
+    text-decoration: none;
+    color: black;
+}
+
+/* caroucel */

@@ -1,6 +1,7 @@
 .section1 {
     background-color: bwhite;
     height: 150px;
+    
 }
 
 .h1-section1 {
@@ -19,6 +20,7 @@
     text-align: center;
     color: black;
     padding-top: 0%;
+    
 }
 
 .section3 {
@@ -44,8 +46,8 @@ footer {
 }
 
 .img-size {
-    width: 30px;
-    height: 30px;
+    width: 70px;
+    height: 40px;
 
 }
 
